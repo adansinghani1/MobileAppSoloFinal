@@ -1,0 +1,44 @@
+{
+  "Users" : {
+    "akashd123" : {
+      "deptname" : "Produce",
+      "email" : "akashd123@aol.com"
+    },
+    "employeel" : {
+      "deptname" : "test1",
+      "email" : "employeel@gmail.com"
+    },
+    "employee2" : {
+      "deptname" : "test2",
+      "email" : "employee2@aol.com"
+    },
+    "employee3" : {
+      "deptname" : "test3",
+      "email" : "employee3@yahoo.com"
+    
+    },
+    "akashd123@aol.com" : {
+      "ItemByCategory" : {
+        "inventory" : {
+          "041000002878" : {
+            "number" : "041000002878",
+            "category" : "Beverage",
+            "name" : "Lipton Tea Bag 12ct.",
+            "price" : "3"
+
+          }
+        }
+      },
+      "akashd123@aol.com" : {
+      "ItemByCategory" : {
+        "inventory" : {
+          "767563454700" : {
+            "number" : "767563454700",
+            "category" : "Grains",
+            "name" : "Penne",
+            "price" : "2"
+
+          }
+        }
+      },
+     
