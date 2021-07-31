@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "741765637162",
+    "project_id": "inventory-managment-app-a6ca3",
+    "storage_bucket": "inventory-managment-app-a6ca3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:741765637162:android:c3b1f77cb270d8e6dc4f53",
+        "android_client_info": {
+          "package_name": "com.example.admin.augscan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "741765637162-2off02dvfp4s8rodo978ttok073b4jh0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.admin.augscan",
+            "certificate_hash": "e057b61898057e9755104a40dc0f57b4b74fd140"
+          }
+        },
+        {
+          "client_id": "741765637162-1s0bik9im53299fnamc6luvdceuefqgo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfEvHtnmLIwzwI2de9ZVtRkhdeWcijAm0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "741765637162-1s0bik9im53299fnamc6luvdceuefqgo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
